@@ -1,0 +1,2 @@
+# Portfolio
+Personal portfolio website showcasing my skills, projects, experience, and journey as an aspiring Full-Stack Software Engineer.
