@@ -1,0 +1,7 @@
+Add your own portrait here and rename it to:
+profile.jpg
+
+Path:
+public/profile.jpg
+
+Recommended: clear portrait / waist-up photo with a simple background.
