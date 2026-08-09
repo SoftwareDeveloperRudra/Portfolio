@@ -38,12 +38,20 @@ const badgeVariants = {
 
 const DeveloperJourney = () => {
   return (
+<<<<<<< HEAD
     <section id="developer-journey" className="w-full py-12 bg-[#07101d]/90 backdrop-blur-sm border-y border-white/10 relative z-10 overflow-hidden">
+=======
+    <section className="w-full py-12 bg-background/50 backdrop-blur-sm border-y border-white/5 relative z-10 overflow-hidden">
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Section Header */}
         <div className="text-center mb-8">
+<<<<<<< HEAD
           <span className="text-xs uppercase tracking-widest text-cyan-300 font-semibold">
+=======
+          <span className="text-xs uppercase tracking-widest text-primary/80 font-semibold">
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
             Core Competencies
           </span>
           <h3 className="text-2xl font-bold text-text mt-1">
@@ -65,13 +73,21 @@ const DeveloperJourney = () => {
               variants={badgeVariants}
               whileHover={{ scale: 1.05, y: -2 }}
               whileTap={{ scale: 0.98 }}
+<<<<<<< HEAD
               className="group relative flex items-center gap-2.5 px-4 py-2.5 rounded-full bg-white/[0.025] border border-white/10 backdrop-blur-md text-text text-sm font-medium transition-all duration-300 hover:border-cyan-400/30 hover:bg-cyan-400/[0.04] cursor-default"
+=======
+              className="group relative flex items-center gap-2.5 px-4 py-2.5 rounded-full bg-surface/60 border border-white/10 backdrop-blur-md text-text text-sm font-medium transition-all duration-300 hover:border-primary/50 hover:bg-surface/90 cursor-default"
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
             >
               {/* Subtle Ambient Glow Effect on Hover */}
               <div className="absolute -inset-0.5 rounded-full bg-gradient-to-r from-primary/30 to-accent/30 opacity-0 blur-md group-hover:opacity-100 transition-opacity duration-300 -z-10" />
 
               {/* Animated Checkmark Icon */}
+<<<<<<< HEAD
               <span className="flex items-center justify-center w-5 h-5 rounded-full bg-cyan-300/10 text-cyan-300 text-xs font-bold border border-cyan-300/20 group-hover:bg-cyan-300 group-hover:text-white transition-colors duration-300">
+=======
+              <span className="flex items-center justify-center w-5 h-5 rounded-full bg-primary/10 text-primary text-xs font-bold border border-primary/20 group-hover:bg-primary group-hover:text-white transition-colors duration-300">
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
                 ✓
               </span>
 

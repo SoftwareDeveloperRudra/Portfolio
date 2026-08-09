@@ -1,19 +1,33 @@
 // src/data/journeyData.js
 export const timelineEvents = [
   {
+<<<<<<< HEAD
     id: "2023-education",
     year: "2023",
+=======
+    id: "2024-education",
+    year: "2024",
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
     type: "education",
     title: "Bachelor of Engineering",
     subtitle: "Computer Science Engineering",
     institution: "SN Patel Institute of Technology",
+<<<<<<< HEAD
     period: "2023 - 2027",
+=======
+    period: "2024 - 2028",
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
     description: "Enrolled in CSE to lay a strong foundation in computer science fundamentals, data structures, algorithms, and software engineering principles.",
     skills: ["Data Structures", "Algorithms", "CS Fundamentals"]
   },
   {
+<<<<<<< HEAD
     id: "2023-web-basics",
     year: "2023",
+=======
+    id: "2024-web-basics",
+    year: "2024",
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
     type: "milestone",
     title: "Web Development Foundations",
     subtitle: "Core Frontend Skills",
@@ -21,8 +35,13 @@ export const timelineEvents = [
     skills: ["HTML", "CSS", "JavaScript"]
   },
   {
+<<<<<<< HEAD
     id: "2023-react",
     year: "2023",
+=======
+    id: "2024-react",
+    year: "2024",
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
     type: "milestone",
     title: "Modern Frontend Mastery",
     subtitle: "React Ecosystem",
@@ -30,8 +49,13 @@ export const timelineEvents = [
     skills: ["React", "JavaScript ES6+", "Tailwind CSS"]
   },
   {
+<<<<<<< HEAD
     id: "2023-backend",
     year: "2023",
+=======
+    id: "2024-backend",
+    year: "2024",
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
     type: "milestone",
     title: "Backend & Database Integration",
     subtitle: "Relational Architecture",
@@ -39,8 +63,13 @@ export const timelineEvents = [
     skills: ["PHP", "MySQL", "Database Design"]
   },
   {
+<<<<<<< HEAD
     id: "2023-python",
     year: "2023",
+=======
+    id: "2024-python",
+    year: "2024",
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
     type: "milestone",
     title: "Python Programming",
     subtitle: "Language Expansion",
@@ -48,8 +77,13 @@ export const timelineEvents = [
     skills: ["Python", "OOP", "Scripting"]
   },
   {
+<<<<<<< HEAD
     id: "2023-iot",
     year: "2023",
+=======
+    id: "2024-iot",
+    year: "2024",
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
     type: "project",
     title: "IoT Health Monitoring Project",
     subtitle: "Hardware & Software Integration",
@@ -57,8 +91,13 @@ export const timelineEvents = [
     skills: ["Hardware/Sensors", "Firebase", "Real-Time Data"]
   },
   {
+<<<<<<< HEAD
     id: "2023-fastapi",
     year: "2023",
+=======
+    id: "2024-fastapi",
+    year: "2024",
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
     type: "milestone",
     title: "FastAPI Development",
     subtitle: "High-Performance APIs",
@@ -66,8 +105,13 @@ export const timelineEvents = [
     skills: ["FastAPI", "REST APIs", "Async Python"]
   },
   {
+<<<<<<< HEAD
     id: "2023-studymate",
     year: "2023",
+=======
+    id: "2024-studymate",
+    year: "2024",
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
     type: "project",
     title: "Developed StudyMate AI",
     subtitle: "AI Assistant Platform",
@@ -75,8 +119,13 @@ export const timelineEvents = [
     skills: ["AI Integration", "FastAPI", "React"]
   },
   {
+<<<<<<< HEAD
     id: "2023-internship",
     year: "2023 - Present",
+=======
+    id: "2024-internship",
+    year: "2024 - Present",
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
     type: "experience",
     title: "Web Development Intern",
     subtitle: "Industry Experience",

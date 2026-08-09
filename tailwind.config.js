@@ -8,17 +8,30 @@ export default {
     extend: {
       colors: {
         background: {
+<<<<<<< HEAD
           DEFAULT: '#050b14',
+=======
+          DEFAULT: '#050816',
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
           secondary: '#0F172A',
         },
         card: '#111827',
         primary: {
+<<<<<<< HEAD
           DEFAULT: '#2563EB',
           glow: 'rgba(59, 130, 246, 0.35)',
         },
         secondary: {
           DEFAULT: '#22D3EE',
           glow: 'rgba(34, 211, 238, 0.35)',
+=======
+          DEFAULT: '#3B82F6',
+          glow: 'rgba(59, 130, 246, 0.35)',
+        },
+        secondary: {
+          DEFAULT: '#8B5CF6',
+          glow: 'rgba(139, 92, 246, 0.35)',
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
         },
         success: '#10B981',
         text: {

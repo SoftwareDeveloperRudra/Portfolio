@@ -4,7 +4,11 @@ import { FaGraduationCap, FaCode, FaMapMarkerAlt, FaRocket, FaCheckCircle } from
 
 // Timeline Data Structure
 const timelineData = [
+<<<<<<< HEAD
   { year: '2023', title: 'Started Bachelor of Engineering', subtitle: 'Computer Science & Engineering' },
+=======
+  { year: '2024', title: 'Started Bachelor of Engineering', subtitle: 'Computer Science & Engineering' },
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
   { year: 'Phase 1', title: 'Learned Web Fundamentals', subtitle: 'HTML, CSS & JavaScript' },
   { year: 'Phase 2', title: 'Mastered Frontend Frameworks', subtitle: 'React & Modern UI Architecture' },
   { year: 'Phase 3', title: 'Explored Backend & Databases', subtitle: 'PHP, MySQL & Python' },

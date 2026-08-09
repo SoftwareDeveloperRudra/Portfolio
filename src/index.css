@@ -3,7 +3,11 @@
 @layer base {
   html {
     scroll-behavior: initial;
+<<<<<<< HEAD
     background-color: #050b14;
+=======
+    background-color: #050816;
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
     color: #F8FAFC;
     font-family: 'Sora', 'Poppins', sans-serif;
   }
@@ -13,7 +17,11 @@
     padding: 0;
     overflow-x: hidden;
     min-height: 100vh;
+<<<<<<< HEAD
     background-color: #050b14;
+=======
+    background-color: #050816;
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
   }
 
   /* Custom Scrollbar */
@@ -22,7 +30,11 @@
   }
 
   ::-webkit-scrollbar-track {
+<<<<<<< HEAD
     background: #050b14;
+=======
+    background: #050816;
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
   }
 
   ::-webkit-scrollbar-thumb {
@@ -32,7 +44,11 @@
   }
 
   ::-webkit-scrollbar-thumb:hover {
+<<<<<<< HEAD
     background: #2563EB;
+=======
+    background: #3B82F6;
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
   }
 }
 
@@ -60,6 +76,7 @@
 }
 
 @utility text-gradient-accent {
+<<<<<<< HEAD
   background: linear-gradient(135deg, #2563EB 0%, #22D3EE 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -75,3 +92,9 @@
   html { scroll-behavior: auto !important; }
   *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
 }
+=======
+  background: linear-gradient(135deg, #3B82F6 0%, #8B5CF6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568

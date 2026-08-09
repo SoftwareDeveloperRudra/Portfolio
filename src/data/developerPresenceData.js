@@ -136,7 +136,11 @@ export const certifications = [
     id: "cert-4",
     title: "Git & GitHub Version Control",
     issuer: "GitHub Education",
+<<<<<<< HEAD
     year: "2023",
+=======
+    year: "2024",
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
     credentialUrl: "#",
     icon: "git-branch",
   },
@@ -144,7 +148,11 @@ export const certifications = [
     id: "cert-5",
     title: "JavaScript Algorithms & Data Structures",
     issuer: "freeCodeCamp",
+<<<<<<< HEAD
     year: "2023",
+=======
+    year: "2024",
+>>>>>>> 36f352f2b4750cca9afa8203f1c992dff72fc568
     credentialUrl: "#",
     icon: "code-2",
   },
